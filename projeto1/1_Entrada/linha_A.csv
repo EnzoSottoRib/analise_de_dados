@@ -1,0 +1,4 @@
+ID_Peca,Status_Qualidade,Tempo_Ciclo_seg,Operador
+P-1001,Aprovado,120,OP-01
+P-1002,Aprovado,122,OP-01
+P-1003,Reprovado,130,OP-02
